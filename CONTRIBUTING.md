@@ -7,7 +7,7 @@
 ### 方式 A:提交 Pull Request(推荐,熟悉 Git 的同学)
 
 1. Fork 本仓库
-2. 从 [`templates/`](templates/) 复制对应模板到正确的目录
+2. 从 [`templates/`](templates/README.md) 复制对应模板到正确的目录
 3. 按模板填写内容,文件命名遵循下方规范
 4. 提交 PR,维护者 review 后合并
 
